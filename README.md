@@ -1,6 +1,14 @@
 # Aiport_Queueing_Game
 Airport Queueing Game on R Shiny for SUTD 40.014 Engineering Systems Architecture.
 
+
+# Team 23
+- Tan Zen Sheen (1005650)
+- James Huang Yong Heng (1005461)
+- Ashley Tan Yi-Shien (1005161)
+- Nam Ming Hui Carol (1005338)
+
+
 # Instructions
 
 1. R Studio is needed to run the Game, you may install it [here](https://posit.co/products/open-source/rstudio/).  
