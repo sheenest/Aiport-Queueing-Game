@@ -2,7 +2,7 @@
 Airport Queueing Game on R Shiny for SUTD 40.014 Engineering Systems Architecture.
 
 
-# Team 23
+# Team 6
 - Tan Zen Sheen (1005650)
 - James Huang Yong Heng (1005461)
 - Ashley Tan Yi-Shien (1005161)
