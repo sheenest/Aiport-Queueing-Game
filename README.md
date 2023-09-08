@@ -1,4 +1,4 @@
-# Aiport_Queueing_Game
+# Aiport Queueing Game
 Airport Queueing Game on R Shiny for SUTD 40.014 Engineering Systems Architecture.
 
 
